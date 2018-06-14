@@ -1,0 +1,15 @@
+#Blocks
+
+tile.tutorial:tutorial_block.name=Tutorial Block
+
+
+#Items
+
+item.tutorial:jelly_dart_item.name=Jelly Dart
+item.tutorial:snewball_item.name=Snewball
+
+
+#Entities
+
+entity.Jelly.name=Jelly
+entity.JellyDart.Name=Jelly Dart
